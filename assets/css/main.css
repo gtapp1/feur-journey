@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:700|Della Respira:400');
+@import url('https://fonts.googleapis.com/css2?family=Della+Respira&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,500;1,500&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Silkscreen:wght@400;700&display=swap');
+
+body {
+  font-family: 'Della Respira';
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Della Respira';
+  font-weight: 700;
+  
+}
+
+h1 {
+  font-size: 45.210rem; /* 67.36px */
+}
+
+p {
+    font-family: 'Montserrat';
+    font-weight: 200;
+    font-size: 1rem; 
+    line-height: 1;
+    font-style: normal;
+    font-optical-sizing: auto;
+  }
+
+strong {
+    font-family: 'Della Respira';
+    font-weight: 700;
+    font-size: 1.1rem; 
+    line-height: 7;
+  }
+
+li {
+    font-family: 'Montserrat';
+    font-weight: 300;
+    font-optical-sizing: auto;
+    font-size: 15px; 
+    line-height: 1;
+    font-style: normal;
+}
+
+small {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 0.750rem; /* 12px */
+    line-height: 1;
+    font-style: normal;
+    font-optical-sizing: auto;
+}
+
+html {font-size: 100%;} /* 16px */
+
+h1 {font-size: 4.210rem; /* 67.36px */}
+
+h2 {font-size: 3.158rem; /* 50.56px */}
+
+h3 {font-size: 2.369rem; /* 37.92px */}
+
+h4 {font-size: 1.777rem; /* 28.48px */}
+
+h5 {font-size: 1.333rem; /* 21.28px */}
+
+small {font-size: 0.750rem; /* 12px */}
